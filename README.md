@@ -3,7 +3,7 @@
 ## HostDare 介绍
 HostDare 是一家成立于美国的云服务商，主要提供VPS主机服务。其数据中心位于美国洛杉矶和日本大阪。HostDare提供多种VPS系列，包括CN2 GIA NVMe KVM VPS（美国）、CN2 GIA HDD KVM VPS（美国）、Cheap NVMe KVM VPS（美国）、Cheap HDD KVM VPS（美国）、Premium NVMe KVM（日本）。这些VPS系列提供多种配置选项，可满足不同用户的需求。HostDare 目前针对美国和日本的VPS产品提供多种折扣和优惠码，价格实惠，续费同价，并支持使用支付宝或PayPal等付款方式。
 
-!HostDare介绍和测评](https://github.com/user-attachments/assets/a38b854d-db6b-485b-9e39-19b5a2b140f5)
+![HostDare介绍和测评](https://github.com/user-attachments/assets/a38b854d-db6b-485b-9e39-19b5a2b140f5)
 
 ## HostDare 官网地址
 HostDare官网：[https://www.hostdare.com](https://bill.hostdare.com/aff.php?aff=3827)
